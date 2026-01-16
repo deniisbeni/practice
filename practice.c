@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main(){
-printf("practise67/n");
-return 0;
+printf("practice67/n");
+return 2;
 
 
 }
+
+
+
+
